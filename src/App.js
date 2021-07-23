@@ -69,7 +69,7 @@ function App() {
         </Carousel.Item>
       </Carousel>
       <Row className="p-3">
-        <Col lg={3} className="border bg-dark h-main" >
+        <Col lg={3} className="border bg-danger h-main" >
           <h4>Activities</h4>
         </Col>
         <Col lg={9} className="border b-light h-main">
